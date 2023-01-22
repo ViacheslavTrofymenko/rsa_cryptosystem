@@ -1,0 +1,18 @@
+{
+  "name": "rsa_cryptosystem",
+  "version": "1.0.0",
+  "description": "RSA algorithm encryption tool",
+  "main": "index.js",
+  "scripts": {
+    "result": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viacheslav Trofymenko",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.51"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
